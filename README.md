@@ -1,3 +1,6 @@
+# Creating Crypto Tokens
+This project is based on creation of Crypto Tokens based on Decentralised Apps with the help of ICP.
+
 # Check your Balance
 
 1. Find out your principal id:
